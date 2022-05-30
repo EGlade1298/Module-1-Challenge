@@ -1,5 +1,7 @@
 # Title
 Wealthsimple Case Study by Eric McGlade
+
+![Wealthsimple logo](Logo_Wealthsimple_2.png)
 ## Overview and Origin
 
 * What is the name of the company?
